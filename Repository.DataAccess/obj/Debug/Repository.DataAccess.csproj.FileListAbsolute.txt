@@ -1,0 +1,15 @@
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\bin\Debug\Repository.DataAccess.dll.config
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\bin\Debug\Repository.DataAccess.dll
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\bin\Debug\Repository.DataAccess.pdb
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\bin\Debug\EntityFramework.dll
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\bin\Debug\Repository.Data.dll
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\bin\Debug\Repository.Data.pdb
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\bin\Debug\Repository.Data.dll.config
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\bin\Debug\EntityFramework.xml
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\obj\Debug\Repository.DataAccess.csprojAssemblyReference.cache
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\obj\Debug\Repository.DataAccess.csproj.CoreCompileInputs.cache
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\obj\Debug\Repository.DataAccess.csproj.CopyComplete
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\obj\Debug\Repository.DataAccess.dll
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.DataAccess\obj\Debug\Repository.DataAccess.pdb

@@ -1,0 +1,14 @@
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.Data\bin\Debug\Repository.Data.dll.config
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.Data\bin\Debug\Repository.Data.dll
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.Data\bin\Debug\Repository.Data.pdb
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.Data\bin\Debug\EntityFramework.dll
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.Data\bin\Debug\EntityFramework.xml
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.Data\obj\Debug\Repository.Data.csproj.CoreCompileInputs.cache
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.Data\obj\Debug\Repository.Data.csproj.CopyComplete
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.Data\obj\Debug\Repository.Data.dll
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.Data\obj\Debug\Repository.Data.pdb
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.Data\obj\Debug\Repository.Data.Migrations.Init.resources
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.Data\obj\Debug\Repository.Data.csproj.GenerateResource.cache
+F:\技术开发\Demo\工作单元仓储EF\Repository\Repository.Data\obj\Debug\Repository.Data.csprojAssemblyReference.cache
