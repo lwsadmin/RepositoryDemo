@@ -14,19 +14,20 @@ namespace Repository.Web.Controllers
 {
     public class RolesController : Controller
     {
+
+        //2019/09/16 --lws
         private UnitOfWork _unitWork;
         public RolesController()
         {
             this._unitWork = new UnitOfWork();
         }
-        // GET: Roles
+
         public ActionResult Index()
         {
             var list = _unitWork.RoleRepository.GetList();
             return View(list);
         }
 
-        // GET: Roles/Details/5
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -41,7 +42,6 @@ namespace Repository.Web.Controllers
             return View(roles);
         }
 
-        // GET: Roles/Create
         public ActionResult Create()
         {
             return View();
@@ -63,7 +63,6 @@ namespace Repository.Web.Controllers
             return View(roles);
         }
 
-        // GET: Roles/Edit/5
         public ActionResult Edit(int? id)
         {
             if (id == null)
